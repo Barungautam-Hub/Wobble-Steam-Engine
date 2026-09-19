@@ -38,7 +38,7 @@ The exploded view shows the individual components separated from the main assemb
 
 A short assembly video demonstrating the modeled mechanism:
 
-[▶️ Watch the Wobble Steam Engine Assembly](Wobble-steam-engine.mp4)
+[▶️ Watch the Wobble Steam Engine Assembly](Wobble%20steam%20engine.mp4)
 
 ---
 
